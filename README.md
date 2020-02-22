@@ -16,4 +16,8 @@ $curl localhost:8800
 ```
 ***
 **NB:**
-Untuk mengganti aplikasi PHP anda dapat dimasukkan kedalam folder **sosial-media**
+* Untuk mengganti aplikasi PHP anda dapat dimasukkan kedalam folder **sosial-media**
+* gunakan command berikut untuk push image ini dari docker hub
+```
+docker pull heryslty/php-fpm-nginx:v1.1
+```
